@@ -1,3 +1,4 @@
+/ Added a brief comment for Capstone on scripts branch
 // u.q
 \c 20 200
 \l util.q

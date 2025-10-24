@@ -133,3 +133,9 @@ which would expose your application to various risks:
 ### Recommendation:
 Instead, download code and subject it to the version control and regression testing
 you use for your application.
+
+## Project Overview
+This project demonstrates version control using Git and branching.
+
+## Project Overview
+This project demonstrates version control using Git and branching.
